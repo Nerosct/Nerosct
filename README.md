@@ -1,6 +1,12 @@
 ## 👨🏻‍💻 Denilson Pereira 
+**`Desenvolvedor Fullstack & Analista de Dados`**
 
+Atuo como Desenvolvedor Fullstack na Divisão de Processamento de Dados da Prefeitura Municipal de Passos, onde participo do desenvolvimento e manutenção de aplicações desktop em .NET Framework para gestão de departamentos públicos e automação de processos administrativos. 
+
+Tenho experiência com Python, SQL, C# e Java, além de ferramentas como AWS (S3, Glue, Lambda, Athena, QuickSight), Docker e Git.
  <a href="https://github.com/Nerosct?tab=repositories&sort=stargazers">
+ <br/>
+ <br/>
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
@@ -46,78 +52,6 @@
 />
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
@@ -132,9 +66,58 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
-<br/>
-<br/>
+<img 
+    align="left" 
+    alt="R" 
+    title="R"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="C#" 
+    title="C#" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PySpark" 
+    title="PySpark" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" 
+/>
+  <img 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" 
+    alt="SQL" 
+    title="SQL" 
+    width="30" 
+    style="padding-right:10px;" 
+  />
+  <img 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" 
+    alt="Docker" 
+    title="Docker" 
+    width="30" 
+    style="padding-right:10px;" 
+  />
+    <img 
+    src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" 
+    alt="AWS" 
+    title="AWS" 
+    width="30" 
+    style="padding-right:10px;" 
+  />
+  <img 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
+    alt="Java" 
+    title="Java" 
+    width="30" 
+    style="padding-right:10px;" 
+/>
 
 ### 📊 Estatísticas
 
